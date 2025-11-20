@@ -74,7 +74,7 @@ function getTransactions(){
 
             transactionsHtml += `
             <tr>
-                <td scope="row">${item.date}</td>
+                <td>${item.date}</td>
                 <td>${item.value.toFixed(2)}</td>
                 <td>${type}</td>
                 <td>${item.description}</td>
