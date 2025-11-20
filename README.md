@@ -27,8 +27,6 @@
 
 ---
 
-## 🚀 Como executar o projeto
+## 🚀 Como acessar o projeto
 
-1. Clone o repositório:  
-   ```bash
-   git clone https://github.com/AndMqs/nikel.git
+1. Aguarde mais um pouco! Estou fazendo algumas atualizações para que seja possível acessar o site pelo GitHub Pages (por isso o arquivo "index.html" no main do projeto) 😉 
