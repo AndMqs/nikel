@@ -5,6 +5,8 @@ let data = {
     transactions: []
 };
 
+checkLogged();
+
 document.getElementById("button-logout").addEventListener("click", logout);
 
 
@@ -29,7 +31,7 @@ document.getElementById("transaction-form").addEventListener("submit", function(
     alert("Lançamento adicionado com sucesso.")
 })
 
-checkLogged();
+
 
 function checkLogged(){
     if(session){
