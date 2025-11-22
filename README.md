@@ -29,4 +29,4 @@
 
 ## 🚀 Como acessar o projeto
 
-1. Aguarde mais um pouco! Estou fazendo algumas atualizações para que seja possível acessar o site pelo GitHub Pages (por isso o arquivo "index.html" no main do projeto) 😉 
+O projeto está disponível no github-pages! Basta acessar o link na lateral direita da página em deployments, criar uma conta e simular as entradas e saídas financeiras 😉 
